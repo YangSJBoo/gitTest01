@@ -8,6 +8,7 @@ class GitTest01ApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("第一次修改");
     }
 
 }

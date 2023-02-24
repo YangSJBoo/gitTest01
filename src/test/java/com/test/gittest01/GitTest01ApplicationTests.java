@@ -8,7 +8,8 @@ class GitTest01ApplicationTests {
 
     @Test
     void contextLoads() {
-        System.out.println("第一次修改");
+        int i=10/2;
+        System.out.println("第二次修改");
     }
 
 }
